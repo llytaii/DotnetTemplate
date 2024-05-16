@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "llytaii",
+  "classifications": [ "Common", "Console" ],
+  "identity": "Template.ConsoleExt",
+  "name": "Console",
+  "shortName": "consoleext",
+  "sourceName":"consoleext",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
